@@ -1,0 +1,8 @@
+Hashes: mydoc.dox
+
+SHA256          1540EF53088C6B6F45B3B7F965462AABFFE91EFCFE99F2052954649A34719569       C:\df-mod4-tools\df-mod4-tools\hashEvidence\mydoc.docx
+
+
+HexEditor Hashes for Jeffersonian quotes:
+
+95551acd3f491a1358e9133262761570f4196d4273b9fd60e2429c798df15085
